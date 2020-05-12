@@ -12,6 +12,6 @@ https://pandas.pydata.org/docs/getting_started/10min.html
 * Merge, join, and concatenate   
 https://pandas.pydata.org/docs/user_guide/merging.html
 
-* Time series / date functionality
+* Time series / date functionality   
 https://pandas.pydata.org/docs/user_guide/timeseries.html
 
