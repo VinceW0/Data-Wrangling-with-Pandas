@@ -4,7 +4,7 @@
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.   
 
 
-## Official documentations:
+## Official Documentations:
 
 * 10 minutes to pandas   
 https://pandas.pydata.org/docs/getting_started/10min.html
